@@ -9,3 +9,4 @@ crewai
 openai
 matplotlib
 python-dotenv
+fpdf
