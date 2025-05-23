@@ -1,0 +1,11 @@
+torch
+torchvision
+transformers
+opencv-python
+pandas
+numpy
+scikit-image
+crewai
+openai
+matplotlib
+python-dotenv
